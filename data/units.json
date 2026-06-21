@@ -1,0 +1,71 @@
+{
+  "Aatrox": {
+    "cost": 1,
+    "traits": ["N.O.V.A.", "Bastion"],
+    "range": 1,
+    "stats": {
+      "1": {
+        "hp": 700,
+        "attack": 50,
+        "armor": 45,
+        "magic_resist": 45,
+        "attack_speed": 0.60,
+        "mana_initial": 30,
+        "mana_max": 90
+      },
+      "2": {
+        "hp": 1260,
+        "attack": 75,
+        "armor": 45,
+        "magic_resist": 45,
+        "attack_speed": 0.60,
+        "mana_initial": 30,
+        "mana_max": 90
+      },
+      "3": {
+        "hp": 2268,
+        "attack": 113,
+        "armor": 45,
+        "magic_resist": 45,
+        "attack_speed": 0.60,
+        "mana_initial": 30,
+        "mana_max": 90
+      }
+    }
+  },
+
+  "Reksai": {
+    "cost": 1,
+    "traits": ["Primordian", "Brawler"],
+    "range": 1,
+    "stats": {
+      "1": {
+        "hp": 700,
+        "attack": 50,
+        "armor": 45,
+        "magic_resist": 45,
+        "attack_speed": 0.60,
+        "mana_initial": 40,
+        "mana_max": 100
+      },
+      "2": {
+        "hp": 1260,
+        "attack": 75,
+        "armor": 45,
+        "magic_resist": 45,
+        "attack_speed": 0.60,
+        "mana_initial": 30,
+        "mana_max": 90
+      },
+      "3": {
+        "hp": 2268,
+        "attack": 113,
+        "armor": 45,
+        "magic_resist": 45,
+        "attack_speed": 0.60,
+        "mana_initial": 30,
+        "mana_max": 90
+      }
+    }
+  }
+}
